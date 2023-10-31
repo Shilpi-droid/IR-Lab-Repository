@@ -1,0 +1,10 @@
+investigations make wave system create static pressure distribution liquid surface
+anyone investigate effect shock generate vorticity heat transfer blunt body
+heat transfer blunt body absence vorticity
+general effect flow field reynolds number small
+find calculation procedure applicable incompressible laminar boundary layer flow problems good accuracy reasonable computation time
+paper applicable problem calculation procedures laminar incompressible flow arbitrary pressure gradient
+anyone investigate shear buckle stiffen plat
+paper shear buckle unstiffened rectangular plat shear
+practice close reality assumptions flow hypersonic shock tube use nitrogen nonviscous thermodynamic equilibrium
+design factor use control liftdrag ratios mach number 5

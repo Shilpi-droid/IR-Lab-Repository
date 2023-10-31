@@ -52,11 +52,13 @@ preprocessed_query = preprocess_text(query)
 query_vector = vectorizer.transform([preprocessed_query])
 query_lsi = svd.transform(query_vector)
 
+print(query_lsi)
+
 # Compute cosine similarities between the query and documents
 from sklearn.metrics.pairwise import cosine_similarity
 
 cosine_similarities = cosine_similarity(query_lsi, lsi_matrix)
-
+print(cosine_similarities)
 # Get the index of the most relevant document
 most_relevant_doc_index = cosine_similarities.argmax()
 
